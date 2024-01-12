@@ -1,0 +1,9 @@
+@article{REPO190,
+    author = "Yazdani, Danial and Yazdani, Donya and Branke, J¨¹rgen and Omidvar, Mohammad Nabi and Gandomi, Amir Hossein and Yao, Xin",
+    journal = "IEEE Transactions on Evolutionary Computation",
+    number = "3",
+    pages = "657-670",
+    title = "{Robust Optimization Over Time by Estimating Robustness of Promising Regions}",
+    volume = "27",
+    year = "2023"
+}
